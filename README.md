@@ -12,7 +12,7 @@ This repository is used to organize certification objectives, study notes, hands
 | AI Infrastructure | NVIDIA-Certified Professional: AI Networking (NCP-AIN) | [AI-Infrastructure/NCP-AIN](AI-Infrastructure/NCP-AIN) | Planned |
 | AI Infrastructure | NVIDIA AI Infrastructure and Operations | [AI-Infrastructure/NCP-AIOL](AI-Infrastructure/NCP-AIOL) | Planned |
 | Data Science | NVIDIA-Certified Professional: Accelerated Data Science (NCP-ADS) | [Data-Science/NCP-ADS](Data-Science/NCP-ADS) | Planned |
-| Generative AI | NVIDIA-Certified Professional: Generative AI LLMs (NCP-GENL) | [Generative-AI/NCP-GENL](Generative-AI/NCP-GENL) | Planned |
+| Generative AI | NVIDIA-Certified Professional: Generative AI LLMs (NCP-GENL) | [Generative-AI/NCP-GENL](Generative-AI/NCP-GENL) | In progress |
 | Generative AI | NVIDIA-Certified Professional: Agentic AI (NCP-AAI) | [Generative-AI/NCP-AAI](Generative-AI/NCP-AAI) | Planned |
 
 ## Repository Structure
